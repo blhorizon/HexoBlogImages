@@ -1,0 +1,23 @@
+{
+  "name": "hexoblogimages",
+  "version": "1.0.0",
+  "description": "本仓库为个人博客的静态资源仓库，通过 GitHub 的 Actions 进行 npm publish 操作，推送到 npm 上，然后作为CDN静态资源用于个人博客上。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blhorizon/HexoBlogImages.git"
+  },
+  "keywords": [
+    "博客",
+    "图片"
+  ],
+  "author": "萌傀儡",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blhorizon/HexoBlogImages/issues"
+  },
+  "homepage": "https://github.com/blhorizon/HexoBlogImages#readme"
+}
